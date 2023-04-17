@@ -12,7 +12,7 @@
 		"gh-pages": "npm run build && npx gh-pages -d build"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-static": "^2.0.1",
+		"@sveltejs/adapter-static": "^2.0.2",
 		"gh-pages": "^5.0.0",
 		"@sveltejs/kit": "^1.15.2",
 		"sass": "^1.60.0",
