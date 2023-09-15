@@ -6,46 +6,45 @@
 	<title>Vysp3r (Charles Malouin)</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-	<link rel="icon" href="./vysp3r.com/favicon.png" />
-	<link rel="apple-touch-icon" type="image/x-icon" href="./vysp3r.com/favicon.png" />
-	<link rel="manifest" href="./vysp3r.com/site.webmanifest" />
+	<link rel="icon" href="./favicon.png" />
+	<link rel="apple-touch-icon" type="image/x-icon" href="./favicon.png" />
+	<link rel="manifest" href="./site.webmanifest" />
 
-	<meta http-equiv="content-security-policy" content="">
-		<link href="./vysp3r.com/_app/immutable/assets/_layout.a1b22639.css" rel="stylesheet">
-		<link rel="modulepreload" href="./vysp3r.com/_app/immutable/entry/start.50e970fe.js">
-		<link rel="modulepreload" href="./vysp3r.com/_app/immutable/chunks/index.dada67a2.js">
-		<link rel="modulepreload" href="./vysp3r.com/_app/immutable/chunks/singletons.09183cc6.js">
-		<link rel="modulepreload" href="./vysp3r.com/_app/immutable/entry/app.bddd8a4e.js">
-		<link rel="modulepreload" href="./vysp3r.com/_app/immutable/entry/_layout.svelte.179e4b21.js">
-		<link rel="modulepreload" href="./vysp3r.com/_app/immutable/entry/_layout.ts.984db11e.js">
-		<link rel="modulepreload" href="./vysp3r.com/_app/immutable/chunks/_layout.da46b06b.js">
-		<link rel="modulepreload" href="./vysp3r.com/_app/immutable/entry/_page.svelte.a86eac06.js">
+	
+		<link href="./_app/immutable/assets/0.502dc000.css" rel="stylesheet">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.4d4a657c.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.e108d1fd.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.0f81b810.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.bc3b071c.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.0719bd3d.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/0.a08b2b3f.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/2.67fe3ffe.js">
 </head>
 
-<body data-sveltekit-preload-data="hover">
-	<div style="display: contents">
-
-
-<main><article><div><p>WIP</p></div></article></main>
-
-
+<body data-sveltekit-preload-data="hover" class="min-vh-100 d-flex flex-column text-dark">
+	<div style="display: contents" class="vh-100">  <main><header></header> <div class="content"><h1 data-svelte-h="svelte-1xu9gav">Vysp3r</h1> <div><h3>About</h3> <ul style="list-style-type:none;" data-svelte-h="svelte-bs7le6"><li>🔭 I’m working at LABPLAS and Benny&amp;Co</li> <li>🌱 I’m learning
+				<a href="https://www.coursera.org/professional-certificates/google-ux-design">UX Design</a></li> <li>📫 I&#39;m reachable by email at
+				<a href="mailto:dev@vysp3r.com">dev@vysp3r.com</a>
+				or by
+				<a href="https://t.me/Vysp3r">Telegram</a></li> <li>🤩 I&#39;m a Fedora, GNOME, Valve and Star Citizen fanboy</li> <li>🆓 I&#39;m all about FOSS</li> <li>🖥️ I host most of the services I use</li> <li>😡 I hate browser based applications</li></ul></div> <div><h3>Projects</h3> <div><a href="https://github.com/Vysp3r/ProtonPlus">ProtonPlus</a> <p>A simple Wine and Proton-based compatibility tools manager</p></div> <div><a href="https://github.com/Vysp3r/Markets">Markets</a> <p>A simple stock, currency and cryptocurrency tracker</p></div> <div><a href="https://asset.party/thieves">The Hub</a> <p>A S&amp;Box gamemode by Three Thieves</p></div></div></div> <footer></footer></main> 
 			
 			<script>
 				{
-					__sveltekit_rwqt3y = {
-						env: {},
+					__sveltekit_487wj8 = {
 						assets: "/vysp3r.com",
-						base: new URL("./vysp3r.com", location).pathname,
-						element: document.currentScript.parentElement
+						base: new URL(".", location).pathname.slice(0, -1),
+						env: {}
 					};
+
+					const element = document.currentScript.parentElement;
 
 					const data = [null,null];
 
 					Promise.all([
-						import("./vysp3r.com/_app/immutable/entry/start.50e970fe.js"),
-						import("./vysp3r.com/_app/immutable/entry/app.bddd8a4e.js")
+						import("./_app/immutable/entry/start.4d4a657c.js"),
+						import("./_app/immutable/entry/app.bc3b071c.js")
 					]).then(([kit, app]) => {
-						kit.start(app, __sveltekit_rwqt3y.element, {
+						kit.start(app, element, {
 							node_ids: [0, 2],
 							data,
 							form: null,
