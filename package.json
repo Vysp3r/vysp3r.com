@@ -23,7 +23,7 @@
 		"vite": "^4.5.0"
 	},
 	"dependencies": {
-		"@fortawesome/free-solid-svg-icons": "^6.4.2",
+		"@fortawesome/free-solid-svg-icons": "^6.5.1",
 		"svelte-fontawesome": "^0.0.3"
 	}
 }
