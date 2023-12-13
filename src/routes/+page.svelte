@@ -8,7 +8,11 @@
 
 	<Section title="About">
 		<ul style="list-style-type:none;">
-			<li>🔭 I’m working at LABPLAS and Benny&Co</li>
+			<li>
+				🔭 I’m working at <a href="https://www.benny-co.com/">
+					Benny&Co
+				</a>
+			</li>
 			<li>
 				🌱 I’m learning
 				<a
@@ -21,6 +25,10 @@
 				📫 I'm reachable by email at
 				<a href="mailto:dev@vysp3r.com"> dev@vysp3r.com </a>
 				or by
+				<a href="https://www.linkedin.com/in/charles-malouin/"
+					>LinkedIn</a
+				>
+				or
 				<a href="https://t.me/Vysp3r"> Telegram </a>
 			</li>
 			<li>🤩 I'm a Fedora, GNOME, Valve and Star Citizen fanboy</li>
@@ -35,18 +43,6 @@
 			title="ProtonPlus"
 			description="A simple Wine and Proton-based compatibility tools manager"
 			url="https://github.com/Vysp3r/ProtonPlus"
-		/>
-
-		<Project
-			title="Markets"
-			description="A simple stock, currency and cryptocurrency tracker"
-			url="https://github.com/Vysp3r/Markets"
-		/>
-
-		<Project
-			title="The Hub"
-			description="A S&Box gamemode by Three Thieves"
-			url="https://asset.party/thieves"
 		/>
 	</Section>
 </div>
