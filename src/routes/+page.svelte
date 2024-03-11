@@ -7,7 +7,7 @@
 	<h1>Vysp3r</h1>
 
 	<Section title="About">
-		<ul class="about">
+		<ul style="list-style-type: none; padding-left: 0px;">
 			<li>
 				🔭 I’m working at <a href="https://nexone.ca/">NexOne</a>
 				and <a href="https://www.benny-co.com/">Benny&Co</a>
