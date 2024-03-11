@@ -25,7 +25,7 @@
 			<li>🌱 I’m learning sockets in C</li>
 			<li>
 				🤩 I'm a <a href="https://fedoraproject.org/">Fedora</a>,
-				<a href="https://robertsspaceindustries.com/">GNOME</a>,
+				<a href="https://www.gnome.org/">GNOME</a>,
 				<a href="https://www.valvesoftware.com/">Valve</a>,
 				<a href="https://sbox.facepunch.com/">S&Box</a>
 				and
