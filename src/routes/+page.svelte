@@ -9,8 +9,7 @@
 	<Section title="About">
 		<ul style="list-style-type: none; padding-left: 0px;">
 			<li>
-				🔭 I’m working at <a href="https://nexone.ca/">NexOne</a>
-				and <a href="https://www.benny-co.com/">Benny&Co</a>
+				🔭 I’m working for the <a href="https://forces.ca/">Canadian Armed Forces (CAF)</a>
 			</li>
 			<li>
 				📫 I'm reachable by email at
@@ -40,13 +39,8 @@
 	<Section title="Projects">
 		<Project
 			title="ProtonPlus"
-			description="A simple Wine and Proton-based compatibility tools manager"
+			description="A modern compatibility tools manager for Linux."
 			url="https://github.com/Vysp3r/ProtonPlus"
-		/>
-		<Project
-			title="RetroPlus"
-			description="A simple ROM downloader"
-			url="https://github.com/Vysp3r/RetroPlus"
 		/>
 	</Section>
 </div>
