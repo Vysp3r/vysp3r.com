@@ -9,7 +9,7 @@
 	<Section title="About">
 		<ul style="list-style-type: none; padding-left: 0px;">
 			<li>
-				🔭 I’m working for the <a href="https://forces.ca/">Canadian Armed Forces (CAF)</a>
+				🔭 I’m working for the <a href="https://forces.ca/">Canadian Armed Forces (CAF)</a> as an <a href="https://forces.ca/en/career/information-systems-technician/">Information Systems Technician</a>
 			</li>
 			<li>
 				📫 I'm reachable by email at
