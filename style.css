@@ -6,21 +6,12 @@ main {
     height: 100%;
 }
 
-header {
-    margin-bottom: auto;
-}
-
 .content {
+    margin-top: auto;
+    margin-bottom: auto;
     text-align: center;
 
     li:not(:last-child) {
         margin-bottom: 10px;
     }
-}
-
-footer {
-    display: flex;
-    justify-content: center;
-    padding: 15px;
-    margin-top: auto;
 }
