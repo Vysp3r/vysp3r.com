@@ -6,9 +6,15 @@ main {
     height: 100%;
 }
 
-.content {
-    margin-top: auto;
+header {
     margin-bottom: auto;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.content {
     text-align: center;
 
     li:not(:last-child) {
